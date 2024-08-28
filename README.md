@@ -80,7 +80,7 @@ Obrigado por visitar meu perfil! Sinta-se à vontade para entrar em contato ou e
 
 ---
 
-🌐 **Site pessoal:** [Gberny.com](https://portfolio-gberny.vercel.app/) (se aplicável)
+🌐 **Site pessoal:** [Gberny.com](https://portfolio-gberny.vercel.app/) 
 
 ---
 
