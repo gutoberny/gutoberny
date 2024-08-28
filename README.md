@@ -6,7 +6,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gutoberny&show_icons=true&theme=dark"/>
+<!--   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gutoberny&show_icons=true&theme=dark"/> -->
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutoberny&layout=compact&theme=dark"/>
 </div>
 
