@@ -62,7 +62,7 @@
 
 ## 🎓 Educação
 
-- **Graduação em Ciência da Computação** - UNISC, Santa Cruz do Sul (trancado)
+- **Graduação em Engenharia de Software** - UNINTER, Santa Cruz do Sul (Em andamento)
 - **Técnico em Tecnologia da Informação** - UNISC, Santa Cruz do Sul (07/2017 - 08/2019)
 - **Curso Técnico de Inglês** - Schutz & Kanomata, Santa Cruz do Sul (01/2018 - 11/2018)
 
